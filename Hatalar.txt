@@ -1,0 +1,12 @@
+1 Anasayfadaki fotolar arasý alt üst boþluk "margin bottom" olmadý
+
+2 iletiþim kutusunun yanýndaki iþaret çýkmadý
+
+3 en üsteki çimenlerin alt sol alt kýsmý radius almadý
+
+4 footer, box shadov almadý
+
+5 "DEvamýný oku" butonunun yazýsý beyaz olmadý.
+
+
+
